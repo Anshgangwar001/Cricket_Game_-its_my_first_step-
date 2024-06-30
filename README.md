@@ -1,1 +1,1 @@
-# Cricket_Game_-its_my_first_step-
+This Cricket Game is a simple yet entertaining simulation of a cricket match. Whether you're a cricket enthusiast or just looking for a fun way to pass the time, this game is designed to offer you a glimpse into the sport. As my first project, it serves as a learning experience and a foundation for more complex projects in the future.# Cricket_Game_-its_my_first_step-
